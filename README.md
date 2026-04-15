@@ -30,13 +30,15 @@ way of expressing creativity, solving problems, and making something meaningful.
 - Gym 💪
 
 ## Current Tech Stack 💻:
-<p>
-  <img src="https://img.icons8.com/?size=100&id=zhRIl0Zxiaf0&format=png&color=000000" width="100" height="100" hspace="5" alt="Unreal Engine"/>
-  <img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="100" height="100" hspace="5" alt="alt text"/>
-  <img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" width="100" height="100" hspace="5" alt="alt text"/>
-  <img src="https://img.icons8.com/?size=100&id=6aZUcUt6WjzU&format=png&color=000000" width="100" height="100" hspace="5" alt="alt text"/>
-  <img src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000" width="100" height="100" hspace="5" alt="alt text"/>
-  <img src="https://img.icons8.com/?size=100&id=HxCJ3JvA06ml&format=png&color=000000" width="100" height="100" hspace="5" alt="alt text"/>
-  <img src="https://img.icons8.com/?size=100&id=52555&format=png&color=000000" width="100" height="100" hspace="5" alt="alt text"/>
-  <img src="https://img.icons8.com/?size=100&id=EtIvbBHNN85m&format=png&color=000000" width="100" height="100" hspace="5" alt="alt text"/>
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=zhRIl0Zxiaf0&format=png&color=000000" width="70" height="70" alt="Unreal Engine"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" width="70" height="70" alt="C++"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=118553&format=png&color=000000" width="70" height="70" alt="GitHub"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=6aZUcUt6WjzU&format=png&color=000000" width="70" height="70" alt="alt text"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000" width="70" height="70" alt="Python"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=HxCJ3JvA06ml&format=png&color=000000" width="70" height="70" alt="alt text"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=52555&format=png&color=000000" width="70" height="70" alt="alt text"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=EtIvbBHNN85m&format=png&color=000000" width="70" height="70" alt="alt text"/></td>
+  </tr>
+</table>
